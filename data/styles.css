@@ -63,6 +63,8 @@
 }
 .line {
 }
+.table_cell {
+}
 .shape {
   font-family:'Arial Normal', 'Arial';
   font-weight:400;
@@ -87,7 +89,13 @@
   color:#000000;
   text-align:left;
 }
+.snapshot {
+}
 .checkbox {
+  text-align:left;
+}
+.text_area {
+  color:#000000;
   text-align:left;
 }
 .icon {
